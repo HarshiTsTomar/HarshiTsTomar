@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jR9eM5LPm3p8EUMaQWK4EIy2pRR3QqHQ/view?usp=share_link](https://drive.google.com/file/d/1jR9eM5LPm3p8EUMaQWK4EIy2pRR3QqHQ/view?usp=share_link)
 
-- ⚡Const funfact  =  **Why did the web developer drown? ()=> { Because he had too many anchors }**
+- ⚡Const funfact ( **Why did the web developer drown? )=> { Because he had too many anchors }**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
